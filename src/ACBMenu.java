@@ -23,10 +23,8 @@ public class ACBMenu {
 			System.out.println("2. Crear Tabla");
 			System.out.println("3. Crear Equipo");
 			System.out.println("4. Crear Jugador");
-			System.out.println("6. Mostra jugadors a un equip");
-			System.out.println("7. Assigna jugador a un equip");
-			System.out.println("8. Desvincula jugador d'un equip");
-			System.out.println("9. Carrega estadístiques");
+			System.out.println("6. Seleccionar elementos");
+			System.out.println("7.Eliminar Conjunto Registro");
 			System.out.println("10. Sortir");
 			System.out.println("Esculli opció: ");
 
